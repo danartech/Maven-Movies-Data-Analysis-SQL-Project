@@ -9,6 +9,8 @@
 **Objective:**
 The primary objective of the MavenMovies Data Analysis project is to leverage MySQL to perform comprehensive analysis across multiple facets of MavenMovies' operations. This includes staff demographics, inventory management, customer engagement metrics, and financial transactions. By systematically querying and analyzing these datasets, the project aims to provide actionable insights that support informed decision-making for insurance policy renewal.
 
+![Project Screenshot](https://github.com/danartech/Maven-Movies-Data-Analysis-SQL-Project/blob/main/Maven%20Movie%20Project%20Screenshot.png)
+
 **Project Scope and Steps:**
 1. **Staff Information:** Extracted and compiled detailed staff profiles, including names, email addresses, and store IDs, to assess organizational structure and workforce demographics.
    
